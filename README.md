@@ -1,4 +1,4 @@
-![amirdallalan banner!]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/amirdallalan/amirdallalan/refs/heads/main/in-banner-Amir.png))
+![amirdallalan banner!](https://raw.githubusercontent.com/amirdallalan/amirdallalan/refs/heads/main/in-banner-Amir.png)
 #  About Me:
 Hello, world! 🌍  
 I’m Amirhosein, a ML Developer and researcher with a passion for AI, deep learning, and innovative solutions. Coding isn’t just a skill for me—it’s a pathway to endless discovery. With a background in artificial intelligence, I strive to push the limits of technology, particularly in areas like **Computer Vision**, **Natural Language Processing**, and **Medical Diagnostics**.
